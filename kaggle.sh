@@ -1,3 +1,3 @@
 mkdir -p ~/.kaggle
-mv kaggle.json ~/.kaggle/
+cp kaggle.json ~/.kaggle/
 chmod 600 ~/.kaggle/kaggle.json
